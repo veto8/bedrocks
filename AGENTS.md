@@ -21,7 +21,7 @@ bedrocks/
 
 ## Build & Run
 
-- No tasks yet — nothing to build or run.
+- Task 1 (`ask.sh`): create a new site from the starter — prompts for the sitename, then runs `docker run --rm -v "$PWD:/app" composer create-project roots/bedrock <sitename>`.
 
 ## Conventions
 
